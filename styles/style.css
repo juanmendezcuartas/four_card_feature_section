@@ -81,8 +81,44 @@ footer {
   padding: 1.5em;
 }
 
-/* escritorio normales */
-@media (min-width: 992px) {
+@media (min-width: 1100px) {
+  body {
+    font-size: 17px;
+  }
+  .main {
+    width: auto;
+  }
+
+  .card_supervisor {
+    position: absolute;
+    width: 15em;
+    top: 30em;
+    left: 0em;
+  }
+
+  .card_builder {
+    position: absolute;
+    width: 15em;
+    left: 20em;
+    top: 20em;
+  }
+
+  .card_karma {
+    position: absolute;
+    width: 15em;
+    top: 40em;
+    left: 20em;
+  }
+
+  .card_calculator {
+    position: absolute;
+    width: 15em;
+    left: 40em;
+    top: 30em;
+  }
+}
+
+@media (min-width: 1230px) {
   body {
     font-size: 17px;
   }
