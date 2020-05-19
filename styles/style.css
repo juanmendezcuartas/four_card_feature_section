@@ -93,13 +93,13 @@ footer {
     position: absolute;
     width: 15em;
     top: 30em;
-    left: 0em;
+    left: 5em;
   }
 
   .card_builder {
     position: absolute;
     width: 15em;
-    left: 20em;
+    left: 25em;
     top: 20em;
   }
 
@@ -107,13 +107,13 @@ footer {
     position: absolute;
     width: 15em;
     top: 40em;
-    left: 20em;
+    left: 25em;
   }
 
   .card_calculator {
     position: absolute;
     width: 15em;
-    left: 40em;
+    left: 45em;
     top: 30em;
   }
 }
